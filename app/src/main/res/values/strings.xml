@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MCC_EXP_9</string>
+    <string-array name="spinner">
+        <item>This is a Spinner</item>
+        <item>is a</item>
+        <item>Spinner</item>
+    </string-array>
+</resources>
